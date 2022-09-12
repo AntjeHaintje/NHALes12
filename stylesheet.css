@@ -1,0 +1,84 @@
+header
+	{
+	background-color: blue;
+	widht: 100%;
+	height: 300px;
+	}
+footer
+	{
+	background-color: red;
+	widht: 100%;
+	height: 300px;
+	}
+td
+	{
+	width: 25%
+	}
+#tabelle
+	{
+	width: 100%;
+	}
+#eeneen
+	{
+	background-color: #FFFF00;
+	}
+#eentwee
+	{
+	background-color: #FFCC00;
+	}
+#eendrie
+	{
+	background-color: #FF9900;
+	}
+#eenvier
+	{
+	background-color: #FF0000;
+	}
+#tweeeen
+	{
+	background-color: #CCFF00;
+	}
+#tweetwee
+	{
+	background-color: #CC99FF;
+	}
+#tweedrie
+	{
+	background-color: #CC6600;
+	}
+#tweevier
+	{
+	background-color: #CC3366;
+	}
+#drieeen
+	{
+	background-color: #99FF00;
+	}
+#drietwee
+	{
+	background-color: #99CCCC;
+	}
+#driedrie
+	{
+	background-color: #999999;
+	}
+#drievier
+	{
+	background-color: #990000;
+	}
+#viereen
+	{
+	background-color: #00FF00;
+	}
+#viertwee
+	{
+	background-color: #0099FF;
+	}
+#vierdrie
+	{
+	background-color: #006666;
+	}
+#viervier
+	{
+	background-color: #0000FF;
+	}
